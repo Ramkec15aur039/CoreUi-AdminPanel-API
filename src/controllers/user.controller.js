@@ -1,5 +1,5 @@
 /*
-   controller Name : User
+   controller Name : Users
 */
 
 /** ******************  Import httpStatus ******************************************************** */
