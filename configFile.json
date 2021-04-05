@@ -1,0 +1,13 @@
+{
+"googleApi":{
+    "clientId":"872284362600-jou3j8rjvi5qih7h4kptmf9rc57sksdd.apps.googleusercontent.com",
+    "clientSecret":"Rz-y52hK30PjKwiel1x-Wo03",
+    "session":{
+        "cookieKey":["projecttrackingsystemcookiekey"]
+    }
+},
+"email":{
+    "Email":"help.applogiq@gmail.com",
+    "password":"Applogiq123@"
+}
+}
